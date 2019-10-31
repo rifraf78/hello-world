@@ -1,2 +1,3 @@
 # hello-world
-short test repository
+
+Hello, this is just a quick short test repository
